@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "171197005192",
+    "project_id": "fortafidapp",
+    "storage_bucket": "fortafidapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171197005192:android:16be86ebd51214e997ce3d",
+        "android_client_info": {
+          "package_name": "com.example.fortafid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171197005192-ipl3d5mprbmvh0qc6b4unqnmnt2gvbhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fortafid",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "171197005192-lks8oqhmq50eh83jdots1t5q87ulsos9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRyOsH3uyhg_HybmQqjS5PqQqKv9iHXzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171197005192-lks8oqhmq50eh83jdots1t5q87ulsos9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "171197005192-5im9lems49ekq8hik0qrua275pvijut3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fortafid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

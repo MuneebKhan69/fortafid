@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FortaFid</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">jOi6amKL0QO48Ns_r_gPfIi8MefkvwLO-ahW-</string>
+    <string name="geo_api_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDHZomR5ozaTualggVoaq5Z2fZIFC_03eQ</string>
+    <string name="facebook_app_id">3248497415390933</string>
+    <string name="facebook_client_token">b1a8db1144bbfe6f5195437b2ee5ce56</string>
+</resources>
